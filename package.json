@@ -1,0 +1,21 @@
+{
+  "name": "honey-theme",
+  "displayName": "Honey Theme",
+  "description": "This theme is dedicated to bears with a sweet tooth for honey. 🐻",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Honey Bear theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Honey Bear theme-color-theme.json"
+      }
+    ]
+  }
+}
