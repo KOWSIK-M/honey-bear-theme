@@ -1,11 +1,32 @@
 {
   "name": "honey-theme",
-  "displayName": "Honey Theme",
+  "displayName": "Honey Bear Theme",
   "description": "This theme is dedicated to bears with a sweet tooth for honey. 🐻",
   "version": "0.0.1",
+  "publisher": "Kowsik Medam",
+  "icon": "icon/honey.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOWSIK-M/honey-bear-theme"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
+  "keywords": [
+    "theme",
+    "themes",
+    "honey",
+    "honey bear",
+    "honey bear theme",
+    "bear",
+    "orange",
+    "gold",
+    "kowsik",
+    "medam",
+    "medam kowsik",
+    "honey dark",
+    "dark honey bear"
+  ],
   "categories": [
     "Themes"
   ],
